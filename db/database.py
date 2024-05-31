@@ -5,7 +5,7 @@ db_config = {
     "host": "localhost",
     "user": "root",
     "password": "",
-    "database": "testingdatabase",
+    "database": "schedule",
     "port": 3306,
 }
 
